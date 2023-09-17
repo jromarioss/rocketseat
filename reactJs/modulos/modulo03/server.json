@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvedor de site",
+      "type": "income",
+      "category": "vendas",
+      "price": 1800,
+      "createdAt": "2023-08-22T12:50:40.284Z"
+    },
+    {
+      "id": 2,
+      "description": "Goro",
+      "type": "outcome",
+      "category": "bebidas",
+      "price": 10,
+      "createdAt": "2023-08-23T12:50:40.284Z"
+    },
+    {
+      "id": 3,
+      "description": "Lanche",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 25,
+      "createdAt": "2023-08-23T12:50:40.284Z"
+    },
+    {
+      "id": 4,
+      "description": "Cafeteira",
+      "type": "outcome",
+      "category": "bebida",
+      "price": 180,
+      "createdAt": "2023-08-25T12:50:40.284Z"
+    },
+    {
+      "id": 5,
+      "description": "Camisa",
+      "type": "income",
+      "category": "Vestuário",
+      "price": 30,
+      "createdAt": "2023-08-30T12:50:40.284Z"
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 12,
+      "type": "outcome",
+      "createdAt": "2023-08-23T02:48:27.668Z",
+      "id": 6
+    },
+    {
+      "description": "roupa top",
+      "category": "vestuário ",
+      "price": 40,
+      "type": "outcome",
+      "createdAt": "2023-08-23T03:06:32.180Z",
+      "id": 7
+    }
+  ]
+}
