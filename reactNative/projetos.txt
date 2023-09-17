@@ -1,0 +1,8 @@
+https://github.com/rocketseat-education/myshopping-rn-ignite
+https://github.com/rocketseat-education/ignite-react-native-gofinances
+https://github.com/rocketseat-education/app-de-pedidos-de-pizzas
+https://github.com/rocketseat-education/ignite-react-native-rentx
+https://github.com/rocketseat-education/myshopping-rn-ignite
+
+lib native
+https://efficient-sloth-d85.notion.site/Biblioteca-Ignite-55ea0c036bd1454f9d7aa96e625d497a

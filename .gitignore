@@ -2,3 +2,5 @@ node_modules
 .env
 .gitignore
 .expo
+.next
+anotacoes.docx

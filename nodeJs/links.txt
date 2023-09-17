@@ -1,0 +1,16 @@
+CAPITULO 01
+Desafio 01:
+https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8
+
+Desafio 02:
+https://www.notion.so/Desafio-02-Trabalhando-com-middlewares-4f89bf538c2e4ee291382b92bdc36790
+
+Desafio 03:
+https://www.notion.so/Desafio-03-Corrigindo-o-c-digo-c15c8a2e212846039a367cc7b763c6dd
+
+CAPITULO 02
+configurações:
+https://www.notion.so/ESLint-e-Prettier-Trilha-Node-js-d3f3ef576e7f45dfbbde5c25fa662779
+
+Upload de arquivos: back-end com NodeJS 
+https://www.youtube.com/watch?v=MkkbUfcZUZM&t=3420s
