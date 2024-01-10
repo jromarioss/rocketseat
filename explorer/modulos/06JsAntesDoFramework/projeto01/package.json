@@ -1,0 +1,15 @@
+{
+  "name": "projeto01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.js",
+  "scripts": {
+    "start:dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
